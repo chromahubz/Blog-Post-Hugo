@@ -28,4 +28,4 @@ weight = 30
     min = "0.116.0"
   [module.mounts] # Directing the static folder to assets.
   	source = 'static'
-  	target = 'static'
+  	target = 'images'

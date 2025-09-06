@@ -1,9 +1,9 @@
 ---
 title: "The Ultimate SaaS Content Marketing Roadmap for 2025 and Beyond"
-date: "2023-10-27T10:30:00+00:00"
+date: "2025-09-06T10:30:00+00:00"
 slug: "/saas-content-marketing-2025/"
 description: "Master SaaS content marketing in 2025 with a data-driven roadmap covering SEO, personalization, customer journey integration, agile strategies, and effective distribution."
-image: "images/saas-content-marketing-2025.webp"
+image: "static/images/saas-content-marketing-2025.webp"
 caption: "A digital illustration representing a roadmap for SaaS content marketing."
 categories: ["technology", "marketing"]
 tags: ["SaaS content marketing", "SaaS marketing", "content strategy", "content marketing", "SEO", "data analytics", "customer journey", "content distribution", "agile marketing"]

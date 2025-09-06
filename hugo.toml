@@ -26,3 +26,7 @@ weight = 30
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+[module]
+  [module.mounts]
+  	source = 'static'
+  	target = 'assets'

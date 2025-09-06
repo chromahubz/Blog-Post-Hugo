@@ -27,5 +27,5 @@ weight = 30
     extended = false
     min = "0.116.0"
   [module.mounts] # Directing the static folder to assets.
-  	source = 'assets'
+  	source = 'static'
   	target = 'static'

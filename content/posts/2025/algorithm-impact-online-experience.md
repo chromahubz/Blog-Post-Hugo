@@ -3,7 +3,7 @@ title: "Navigating the Shifting Sands: How Algorithm Updates Reshape Your Online
 date: 2025-09-12T12:51:57.309-04:00
 slug: /algorithm-impact-online-experience/
 description: "Discover how algorithm changes and updates by platform algorithms are reshaping content prioritization, community engagement, and your overall online experience."
-image: "images/algorithm-impact-online-experience.png"
+image: "/images/algorithm-impact-online-experience.png"
 caption: "Visualizing the complex network of an algorithm influencing online content."
 categories: ["Technology", "Digital Marketing"]
 tags: ["algorithm changes", "platform algorithms", "algorithm shifts", "algorithm updates", "content prioritization"]

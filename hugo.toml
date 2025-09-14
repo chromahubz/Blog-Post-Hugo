@@ -1,4 +1,4 @@
-baseURL = 'https://my-hugo-site-three.vercel.app/'
+baseURL = 'https://blog-post-hugo.vercel.app/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 

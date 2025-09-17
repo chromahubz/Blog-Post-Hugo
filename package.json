@@ -1,0 +1,27 @@
+{
+  "name": "blog-post-hugo",
+  "version": "1.0.0",
+  "description": "Pehtheme Hugo is an open-source Hugo theme inspired by [Material Design v3](https://m3.material.io/), lovingly crafted using Tailwind CSS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chromahubz/Blog-Post-Hugo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/chromahubz/Blog-Post-Hugo/issues"
+  },
+  "homepage": "https://github.com/chromahubz/Blog-Post-Hugo#readme",
+  "dependencies": {
+    "@vercel/analytics": "^1.5.0"
+  },
+  "devDependencies": {
+    "esbuild": "^0.25.9"
+  }
+}

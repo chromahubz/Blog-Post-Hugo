@@ -1,4 +1,4 @@
-baseURL = 'https://pehtheme-hugo.netlify.app/'
+baseURL = 'https://blog-post-hugo.vercel.app/'
 languageCode = 'en-us'
 title = 'AI NEWS'
 theme = 'pehtheme-hugo'
